@@ -22,7 +22,7 @@ repository               : "aroosh7/prof-website"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/shishir.jpg"
+  avatar           : images/shishir.jpg
   name             : "Shishir Kumar Pandey"
   pronouns         : # example: "she/her"  
   bio              : "Computational Physicist"
