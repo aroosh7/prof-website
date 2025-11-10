@@ -6,4 +6,4 @@ permalink: /teaching/lecture-slides
 
 You can download the lecture slides below:
 
-[Download Lecture Slides](https://aroosh7.github.io/prof-website/Teaching_slides%20(1).pptx){: .btn }
+[Download Lecture Slides](https://aroosh7.github.io/prof-website/Teaching_slides.pptx){: .btn }
