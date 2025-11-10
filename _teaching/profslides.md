@@ -11,4 +11,5 @@ course: "Solid State Physics"
 
 You can download the lecture slides below:
 
-[Download Lecture Slides](https://aroosh7.github.io/prof-website/Teaching_slides%20(1).pptx){: .btn .btn--primary}
+[Download Lecture Slides](https://aroosh7.github.io/prof-website/Teaching_slides.pptx){: .btn .btn--primary}
+
