@@ -1,18 +1,10 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-layout: single
-author_profile: true
 ---
 
 # Teaching & Course Materials
 
-PDFs and slides will be linked here:
+You can find all course materials below.
 
-[Lecture Slides](/prof-website/teaching/lecture-slides/){: .btn}
-
-
-
-
-
-
+[Lecture Slides](/prof-website/teaching/lecture-slides/){: .btn .btn--info}
