@@ -287,9 +287,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  
-  - title: "Talks"
-  url: /talks/
 
 
 # Sass/SCSS
