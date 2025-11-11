@@ -9,7 +9,7 @@ author_profile: true
 
 PDFs and slides will be linked here:
 
-- [Lecture Slides](/teaching/lecture-slides/)
+- [Lecture Slides](/teaching/profslides/)
 
 
 
