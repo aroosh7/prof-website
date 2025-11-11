@@ -9,4 +9,4 @@ author_profile: true
 
 PDFs and slides will be linked here:
 
-- [Lecture Slides](/prof-website/teaching/lecture-slides/)
+- [Lecture Slides](../teaching/lecture-slides/)
