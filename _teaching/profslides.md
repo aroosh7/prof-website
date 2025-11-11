@@ -2,7 +2,7 @@
 title: "Lecture Slides"
 collection: teaching
 type: "Course Materials"
-permalink: /teaching/lecture-slides
+permalink: /teaching/lecture-slides/
 venue: "Department of Physics"
 course: "Solid State Physics"
 ---
